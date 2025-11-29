@@ -1,53 +1,126 @@
 tab,name,department,division,value,units,major
-Chemistry/Biochemistry,20A,Chem,Physical Sciences,Lower Div (0-99),4,biochem
-Chemistry/Biochemistry,20B,Chem,Physical Sciences,Lower Div (0-99),4,biochem
-Chemistry/Biochemistry,20L,Chem,Physical Sciences,Lower Div (0-99),3,biochem
-Chemistry/Biochemistry,30AL,Chem,Physical Sciences,Lower Div (0-99),4,biochem
-Chemistry/Biochemistry,30A,Chem,Physical Sciences,Lower Div (0-99),4,biochem
-Chemistry/Biochemistry,30B,Chem,Physical Sciences,Lower Div (0-99),4,biochem
-Chemistry/Biochemistry,30BL,Chem,Physical Sciences,Lower Div (0-99),3,biochem
-Chemistry/Biochemistry,30C,Chem,Physical Sciences,Lower Div (0-99),4,biochem
-Chemistry/Biochemistry,31A,Math,Physical Sciences,Lower Div (0-99),4,biochem
-Chemistry/Biochemistry,31B,Math,Physical Sciences,Lower Div (0-99),4,biochem
-Chemistry/Biochemistry,32A,Math,Physical Sciences,Lower Div (0-99),4,biochem
-Chemistry/Biochemistry,1A,Physics,Physical Sciences,Lower Div (0-99),5,biochem
-Chemistry/Biochemistry,1B,Physics,Physical Sciences,Lower Div (0-99),5,biochem
-Chemistry/Biochemistry,1C,Physics,Physical Sciences,Lower Div (0-99),5,biochem
-Chemistry/Biochemistry,7A,Lifesci,Life Sciences,Lower Div (0-99),5,biochem
-Chemistry/Biochemistry,7B,Lifesci,Life Sciences,Lower Div (0-99),5,biochem
-Chemistry/Biochemistry,7C,Lifesci,Life Sciences,Lower Div (0-99),5,biochem
-Chemistry/Biochemistry,7L,Lifesci,Life Sciences,Lower Div (0-99),3,biochem
-Chemistry/Biochemistry,Chem 110A,Chem,Physical Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,Chem 153A,Chem,Physical Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,Chem 153B,Chem,Physical Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,Chem 153C,Chem,Physical Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,Chem 153L,Chem,Physical Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,Chem 154,Chem,Physical Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,Chem 156,Chem,Physical Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,Elective 1,Chem,Physical Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,Elective 2,Lifesci,Life Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,Life Sci 107,Lifesci,Life Sciences,Upper Div (100-199),4,biochem
-Chemistry/Biochemistry,MIMG 101,Lifesci,Life Sciences,Upper Div (100-199),4,biochem
-Atmospheric and Oceanic,A&O Sci 51,A&O Sci,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,A&O Sci 90,A&O Sci,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,A&O Sci M71,A&O Sci,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,Chem 14A/20A,Chem,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,Chem 14B/20B,Chem,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,Math 31A,Math,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,Math 31B,Math,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,Math 32A,Math,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,Math 32B,Math,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,Math 33A,Math,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,Math 33B,Math,Physical Sciences,Lower Div (0-99),4,atmo
-Atmospheric and Oceanic,Physics 1A/1AH/5A,Physics,Physical Sciences,Lower Div (0-99),5,atmo
-Atmospheric and Oceanic,Physics 1B/1BH/5B,Physics,Physical Sciences,Lower Div (0-99),5,atmo
-Atmospheric and Oceanic,Physics 1C/1CH/5C,Physics,Physical Sciences,Lower Div (0-99),5,atmo
-Atmospheric and Oceanic,A&O Sci elective 1,A&O Sci,Physical Sciences,Upper Div (100-199),4,atmo
-Atmospheric and Oceanic,A&O Sci elective 2,A&O Sci,Physical Sciences,Upper Div (100-199),4,atmo
-Atmospheric and Oceanic,A&O Sci elective 3,A&O Sci,Physical Sciences,Upper Div (100-199),4,atmo
-Atmospheric and Oceanic,A&O Sci elective 4,A&O Sci,Physical Sciences,Upper Div (100-199),4,atmo
-Atmospheric and Oceanic,Advised course 1,A&O Sci,Physical Sciences,Upper Div (100-199),4,atmo
-Atmospheric and Oceanic,Advised course 2,A&O Sci,Physical Sciences,Upper Div (100-199),4,atmo
-Atmospheric and Oceanic,Advised course 3,A&O Sci,Physical Sciences,Upper Div (100-199),4,atmo
-Atmospheric and Oceanic,Upper Div elective 1,Varied,Physical Sciences,Upper Div (100-199),4,atmo
-Atmospheric and Oceanic,Upper Div elective 2,Varied,Physical Sciences,Upper Div (100-199),4,atmo
+Atmospheric and Oceanic,A&O Sci 51,A&O Sci,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,A&O Sci 90,A&O Sci,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,A&O Sci M71,A&O Sci,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,Chem 14A/20A,Chem,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,Chem 14B/20B,Chem,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,Math 31A,Math,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,Math 31B,Math,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,Math 32A,Math,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,Math 32B,Math,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,Math 33A,Math,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,Math 33B,Math,Physical Sciences,Lower Div (0-99),4,AOS
+Atmospheric and Oceanic,Physics 1A/1AH/5A,Physics,Physical Sciences,Lower Div (0-99),5,AOS
+Atmospheric and Oceanic,Physics 1B/1BH/5B,Physics,Physical Sciences,Lower Div (0-99),5,AOS
+Atmospheric and Oceanic,Physics 1C/1CH/5C,Physics,Physical Sciences,Lower Div (0-99),5,AOS
+Atmospheric and Oceanic,A&O Sci elective 1,A&O Sci,Physical Sciences,Upper Div (100-199),4,AOS
+Atmospheric and Oceanic,A&O Sci elective 2,A&O Sci,Physical Sciences,Upper Div (100-199),4,AOS
+Atmospheric and Oceanic,A&O Sci elective 3,A&O Sci,Physical Sciences,Upper Div (100-199),4,AOS
+Atmospheric and Oceanic,A&O Sci elective 4,A&O Sci,Physical Sciences,Upper Div (100-199),4,AOS
+Atmospheric and Oceanic,Advised course 1,A&O Sci,Physical Sciences,Upper Div (100-199),4,AOS
+Atmospheric and Oceanic,Advised course 2,A&O Sci,Physical Sciences,Upper Div (100-199),4,AOS
+Atmospheric and Oceanic,Advised course 3,A&O Sci,Physical Sciences,Upper Div (100-199),4,AOS
+Atmospheric and Oceanic,Upper Div elective 1,Varied,Physical Sciences,Upper Div (100-199),4,AOS
+Atmospheric and Oceanic,Upper Div elective 2,Varied,Physical Sciences,Upper Div (100-199),4,AOS
+Chemistry/Biochemistry,Chem 20A,Chem,Physical Sciences,Lower Div (0-99),4,Biochem
+Chemistry/Biochemistry,Chem 20B,Chem,Physical Sciences,Lower Div (0-99),4,Biochem
+Chemistry/Biochemistry,Chem 20L,Chem,Physical Sciences,Lower Div (0-99),3,Biochem
+Chemistry/Biochemistry,Chem 30AL,Chem,Physical Sciences,Lower Div (0-99),4,Biochem
+Chemistry/Biochemistry,Chem 30A,Chem,Physical Sciences,Lower Div (0-99),4,Biochem
+Chemistry/Biochemistry,Chem 30B,Chem,Physical Sciences,Lower Div (0-99),4,Biochem
+Chemistry/Biochemistry,Chem 30BL,Chem,Physical Sciences,Lower Div (0-99),3,Biochem
+Chemistry/Biochemistry,Chem 30C,Chem,Physical Sciences,Lower Div (0-99),4,Biochem
+Chemistry/Biochemistry,Math 31A,Math,Physical Sciences,Lower Div (0-99),4,Biochem
+Chemistry/Biochemistry,Math 31B,Math,Physical Sciences,Lower Div (0-99),4,Biochem
+Chemistry/Biochemistry,Math 32A,Math,Physical Sciences,Lower Div (0-99),4,Biochem
+Chemistry/Biochemistry,Physics 1A,Physics,Physical Sciences,Lower Div (0-99),5,Biochem
+Chemistry/Biochemistry,Physics 1B,Physics,Physical Sciences,Lower Div (0-99),5,Biochem
+Chemistry/Biochemistry,Physics 1C,Physics,Physical Sciences,Lower Div (0-99),5,Biochem
+Chemistry/Biochemistry,Lifesci 7A,Lifesci,Life Sciences,Lower Div (0-99),5,Biochem
+Chemistry/Biochemistry,Lifesci 7B,Lifesci,Life Sciences,Lower Div (0-99),5,Biochem
+Chemistry/Biochemistry,Lifesci 7C,Lifesci,Life Sciences,Lower Div (0-99),5,Biochem
+Chemistry/Biochemistry,Lifesci 7L,Lifesci,Life Sciences,Lower Div (0-99),3,Biochem
+Chemistry/Biochemistry,Chem 110A,Chem,Physical Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,Chem 153A,Chem,Physical Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,Chem 153B,Chem,Physical Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,Chem 153C,Chem,Physical Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,Chem 153L,Chem,Physical Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,Chem 154,Chem,Physical Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,Chem 156,Chem,Physical Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,Elective 1,Chem,Physical Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,Elective 2,Lifesci,Life Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,Life Sci 107,Lifesci,Life Sciences,Upper Div (100-199),4,Biochem
+Chemistry/Biochemistry,MIMG 101,Lifesci,Life Sciences,Upper Div (100-199),4,Biochem
+Mathematics,Math 31A,Math,Physical Sciences,Lower Div (0-99),4,Pure Mathematics
+Mathematics,Math 31AL,Math,Physical Sciences,Lower Div (0-99),5,Pure Mathematics
+Mathematics,Math 31B,Math,Physical Sciences,Lower Div (0-99),4,Pure Mathematics
+Mathematics,Math 32A,Math,Physical Sciences,Lower Div (0-99),4,Pure Mathematics
+Mathematics,Math 32B,Math,Physical Sciences,Lower Div (0-99),4,Pure Mathematics
+Mathematics,Math 33A,Math,Physical Sciences,Lower Div (0-99),4,Pure Mathematics
+Mathematics,Math 33B,Math,Physical Sciences,Lower Div (0-99),4,Pure Mathematics
+Mathematics,COMPTNG 10,Computing,Physical Sciences,Lower Div (0-99),5,Pure Mathematics
+Mathematics,Physics 1A,Physics,Physical Sciences,Lower Div (0-99),5,Pure Mathematics
+Mathematics,Elective 1,Varies,Social Sciences,Lower Div (0-99),4,Pure Mathematics
+Mathematics,Elective 2,Varies,Physical Sciences,Lower Div (0-99),4,Pure Mathematics
+Mathematics,Math 110A,Math,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,Math 110B,Math,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,Math 115A,Math,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,Math 120A,Math,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,Math 131A,Math,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,Math 131B,Math,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,Math 132,Math,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,(UD) Elective 1,Math or Stats,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,(UD) Elective 2,Math or Stats,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,(UD) Elective 3,Math or Stats,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,(UD) Elective 4,Math or Stats,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Mathematics,(UD) Elective 5,Math or Stats,Physical Sciences,Upper Div (100-199),4,Pure Mathematics
+Physics and Astronomy,Physics 1A/1AH,Physics ,Physical Sciences,Lower Div (0-99),5,Astrophysics
+Physics and Astronomy,Physics 1B/1BH,Physics ,Physical Sciences,Lower Div (0-99),5,Astrophysics
+Physics and Astronomy,Physics 1C/1CH,Physics ,Physical Sciences,Lower Div (0-99),5,Astrophysics
+Physics and Astronomy,Physics 4AL,Physics ,Physical Sciences,Lower Div (0-99),2,Astrophysics
+Physics and Astronomy,Physics 4BL,Physics ,Physical Sciences,Lower Div (0-99),2,Astrophysics
+Physics and Astronomy,Physics 17,Physics ,Physical Sciences,Lower Div (0-99),4,Astrophysics
+Physics and Astronomy,Physics 32,Physics ,Physical Sciences,Lower Div (0-99),4,Astrophysics
+Physics and Astronomy,Astro 81,Astronomy,Physical Sciences,Lower Div (0-99),4,Astrophysics
+Physics and Astronomy,Math 31A,Math,Physical Sciences,Lower Div (0-99),4,Astrophysics
+Physics and Astronomy,Math 31B,Math,Physical Sciences,Lower Div (0-99),4,Astrophysics
+Physics and Astronomy,Math 32A,Math,Physical Sciences,Lower Div (0-99),4,Astrophysics
+Physics and Astronomy,Math 32B,Math,Physical Sciences,Lower Div (0-99),4,Astrophysics
+Physics and Astronomy,Math 33A,Math,Physical Sciences,Lower Div (0-99),4,Astrophysics
+Physics and Astronomy,Math 33B,Math,Physical Sciences,Lower Div (0-99),4,Astrophysics
+Physics and Astronomy,PIC 10/CS30/CS31,Math,Physical Sciences,Lower Div (0-99),5,Astrophysics
+Physics and Astronomy,Physics 105A,Physics ,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Physics 105B,Physics ,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Physics 110A,Physics ,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Physics 110B,Physics ,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Physics 115A,Physics ,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Physics 115B,Physics ,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Physics 115C,Physics ,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Astro 115,Astronomy,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Astro 117,Astronomy,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Astro 127,Astronomy,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Astro 180,Astronomy,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Astro elective 1,Astronomy,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Astro elective 2,Astronomy,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Physics and Astronomy,Astro elective 3,Astronomy,Physical Sciences,Upper Div (100-199),4,Astrophysics
+Environmental Science,ENVIRON 10,Environmental Science,Life Science,Lower Div (0-99),4,Environmental Science
+Environmental Science,Geography 7,Geography,Physical Science,Lower Div (0-99),5,Environmental Science
+Environmental Science,Chem 14A,Chem,Physical Science,Lower Div (0-99),4,Environmental Science
+Environmental Science,Chem 14B,Chem,Physical Science,Lower Div (0-99),4,Environmental Science
+Environmental Science,Chem 14BL,Chem,Physical Science,Lower Div (0-99),3,Environmental Science
+Environmental Science,Lifesci 7A,Lifesci,Life Science,Lower Div (0-99),5,Environmental Science
+Environmental Science,Lifesci 7B,Lifesci,Life Science,Lower Div (0-99),3,Environmental Science
+Environmental Science,Math 3A,Math,Physical Science,Lower Div (0-99),4,Environmental Science
+Environmental Science,Math 3B,Math,Physical Science,Lower Div (0-99),4,Environmental Science
+Environmental Science,Physics 5A/1A,Physics,Physical Science,Lower Div (0-99),5,Environmental Science
+Environmental Science,Physics 5C/1B,Physics,Physical Science,Lower Div (0-99),5,Environmental Science
+Environmental Science,Stats 12,Statistics,Physical Science,Lower Div (0-99),4,Environmental Science
+Environmental Science,Elective,varies,Physical or Life Science,Lower Div (0-99),4,Environmental Science
+Environmental Science,ENVIRON 175,Environmental Science,Physical Science,Upper Div (100-199),4,Environmental Science
+Environmental Science,Science elective 1,varies,Physical or Life Science,Upper Div (100-199),4,Environmental Science
+Environmental Science,Science elective 2,varies,Physical or Life Science,Upper Div (100-199),4,Environmental Science
+Environmental Science,Science elective 3,varies,Physical or Life Science,Upper Div (100-199),4,Environmental Science
+Environmental Science,Science elective 4,varies,Physical or Life Science,Upper Div (100-199),4,Environmental Science
+Environmental Science,ENVIRON 140,Environmental Science,Social Science/Humanities,Upper Div (100-199),4,Environmental Science
+Environmental Science,Social elective 1,varies,Social Science/Humanities,Upper Div (100-199),4,Environmental Science
+Environmental Science,Social elective 2,varies,Social Science/Humanities,Upper Div (100-199),4,Environmental Science

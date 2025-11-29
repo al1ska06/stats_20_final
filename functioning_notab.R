@@ -72,7 +72,10 @@ server <- function(input, output, session) {
 
   dept_majors <- list(
     "Atmospheric and Oceanic" = unique(courses$major[courses$tab == "Atmospheric and Oceanic"]),
-    "Chemistry/Biochemistry" =  unique(courses$major[courses$tab == "Chemistry/Biochemistry"])
+    "Chemistry/Biochemistry" =  unique(courses$major[courses$tab == "Chemistry/Biochemistry"]),
+    "Mathematics" =  unique(courses$major[courses$tab == "Mathematics"]),
+    "Physics and Astronomy" =  unique(courses$major[courses$tab == "Physics and Astronomy"]),
+    "Environmental Science" =  unique(courses$major[courses$tab == "Environmental Science"])
   )
   
   observe({
