@@ -16,7 +16,7 @@ ui <- fluidPage(theme = shinytheme("journal"),
                                selectInput( #this input is for department
                                  inputId = "dep_select",
                                  label = "Choose a department within the physical sciences:",
-                                 choices = c("Atmospheric and Oceanic", "Chemistry/Biochemistry", "Mathematics", "Physics and Astronomy", "Environmental Science", "Earth, Planetary, and Space Sciences"),
+                                 choices = c("Atmospheric and Oceanic", "Chemistry/Biochemistry", "Mathematics", "Physics and Astronomy", "Environmental Science", "Earth, Planetary, and Space Sciences", "Statistics and Data Science"),
                                  selected = "Atmospheric and Oceanic"
                                ),
                                selectInput( #this input is for major
@@ -75,7 +75,8 @@ server <- function(input, output, session) {
     "Chemistry/Biochemistry" =  unique(courses$major[courses$tab == "Chemistry/Biochemistry"]),
     "Mathematics" =  unique(courses$major[courses$tab == "Mathematics"]),
     "Physics and Astronomy" =  unique(courses$major[courses$tab == "Physics and Astronomy"]),
-    "Environmental Science" =  unique(courses$major[courses$tab == "Environmental Science"])
+    "Environmental Science" =  unique(courses$major[courses$tab == "Environmental Science"]),
+    "Statistics and Data Science" = unique(courses$major[courses$tab == "Statistics and Data Science"])
   )
   
   observe({
