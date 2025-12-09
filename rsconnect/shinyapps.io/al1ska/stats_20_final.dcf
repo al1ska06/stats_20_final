@@ -1,0 +1,13 @@
+name: stats_20_final
+title: stats_20_final
+username: al1ska
+account: al1ska
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16275591
+bundleId: 11295868
+url: https://al1ska.shinyapps.io/stats_20_final/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app2.R|functioning_notab.R|functioning_solotab.R|README.md
